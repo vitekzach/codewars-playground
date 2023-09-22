@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "ReverseWords"
+		},
+		{
+			"path": "IsNumberAPrime"
+		},
+		{
+			"path": "BitCounting"
+		},
+		{
+			"path": "ReplaceWithAlphabetSolution"
+		},
+		{
+			"path": "PersistentBugger"
+		}
+	]
+}
